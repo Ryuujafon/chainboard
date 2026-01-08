@@ -1,6 +1,6 @@
 # Chainboard
 
-Chainboard is a production-grade Web3 dashboard designed to demonstrate modern full-stack architecture using Next.js (React 18), TypeScript, and Web3 technologies.
+Chainboard is a production-grade Web3 dashboard designed to demonstrate modern full-stack architecture using Next.js (React 19), TypeScript, and Web3 technologies.
 
 ## Overview
 
