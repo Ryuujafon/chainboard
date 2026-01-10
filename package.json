@@ -1,0 +1,8 @@
+{
+  "name": "chainboard",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
